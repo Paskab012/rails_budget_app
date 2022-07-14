@@ -2,27 +2,66 @@
 ![](https://img.shields.io/badge/ruby-red)
 ![](https://img.shields.io/badge/RoR-pink)
 
-## RAILS_BUDGET_APP
+## BUDGET APP
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+The Ruby on Rails capstone project (remember what they are?) is about building a mobile web application where you can manage your budget: you have a list of transactions associated with a category, so that you can see how much money you spent and on what. You will create a Ruby on Rails application that allows the user to: register and log in, signup, etc
 
-Things you may want to cover:
+## Run the project
 
-- Ruby version
+`rails s`
 
-- System dependencies
+## Built With
 
-- Configuration
+- Ruby
+- Ruby linters
+- stylint linters
+- Ruby on Rails
 
-- Database creation
+## preequests
 
-- Database initialization
+- postgresql database in your machine
 
-- How to run the test suite
+## Getting Started
 
-- Services (job queues, cache servers, search engines, etc.)
+To get a local copy up and running follow these simple example steps.
 
-- Deployment instructions
+- SSH:
+  - `git@github.com:Paskab012/my_blog_app.git`
+- HTTPS:
+  - `https://github.com/Paskab012/my_blog_app.git`
 
-- ...
+then run:
+
+- `bundle install`
+- `npm install`
+
+## Run tests
+
+Run `rspec`
+
+## Author
+
+👤 **Pascal Kabika Mp**
+
+- GitHub: [Paskab012](https://github.com/KABIKA681?tab=overview&from=2021-12-01&to=2021-12-31)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/pascal-kabika-443061220/)
+
+## 🤝 Contributing
+
+Contributions, issues, and feature requests are welcome!
+
+Feel free to check the [issues page](https://github.com/vikipretium/blog-app/issues).
+
+## Show your support
+
+Give a ⭐️ if you like this project!
+
+## Acknowledgments
+
+- Microverse: [microverse community](https://github.com/microverseinc)
+
+Original design idea by [Gregoire Vella on Behance](https://www.behance.net/gregoirevella). Thanks also [The Creative Commons license](https://creativecommons.org/licenses/by-nc/4.0/).
+
+## 📝 License
+
+This project is [MIT](./MIT.md) licensed.
