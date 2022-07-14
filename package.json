@@ -1,0 +1,7 @@
+{
+  "name": "rails_budget_app",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Paskab012/rails_budget_app.git",
+  "license": "MIT"
+}
