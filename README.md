@@ -6,6 +6,10 @@
 
 The Ruby on Rails capstone project (remember what they are?) is about building a mobile web application where you can manage your budget: you have a list of transactions associated with a category, so that you can see how much money you spent and on what. You will create a Ruby on Rails application that allows the user to: register and log in, signup, etc
 
+## See project
+- [live project](https://budget-app-rails.herokuapp.com/)
+- [loom video presentation]()
+
 ## Run the project
 
 `rails s`
