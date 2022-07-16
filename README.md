@@ -8,7 +8,7 @@ The Ruby on Rails capstone project (remember what they are?) is about building a
 
 ## See project
 - [live project](https://budget-app-rails.herokuapp.com/)
-- [loom video presentation]()
+- [loom video presentation](https://www.loom.com/share/68b21efe119c4eb2834a524aa0208ff6)
 
 ## Run the project
 
